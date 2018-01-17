@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemonAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mine">董浩吉好帅！！！</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="title_activity_list_menu">ListMenu</string>
+
+</resources>
